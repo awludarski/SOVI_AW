@@ -1,7 +1,7 @@
 #Prosty_Kalkulatro
 #Alan Włudarski
 liczba1 = float(input("Podaj liczbe nr 1: "))
-op = input("Podaj liczbe nr 1: ")
+op = input("Podaj operator: ")
 liczba2 = float(input("Podaj liczbe nr 2: "))
 if op == "+":
   print(liczba1 + liczba2)
